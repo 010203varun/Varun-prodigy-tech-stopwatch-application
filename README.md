@@ -1,2 +1,2 @@
 hi 
-here is my prodigy internship task- stopwatch application.
+here is my prodigy internship task-2 stopwatch application.
